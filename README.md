@@ -101,4 +101,5 @@ http://pranav.student.saveetha.in:8000/areaofrectangle/
 
 
 ## Result:
+The program for implementing server side processing is completed successfully.
 
