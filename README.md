@@ -22,6 +22,7 @@ Create a HTML file of forms.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <html> 
 <head> 
 <meta charset='utf-8'> 
@@ -86,6 +87,7 @@ Area:<input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/>
 </div>
 </div> 
 </body>
+```
 
 
 ## OUTPUT:
